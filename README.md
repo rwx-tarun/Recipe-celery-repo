@@ -1,5 +1,5 @@
 # Recipe-celery-repo
-Recipe website with multiple recipes using django Celery Redis Caching
+Recipe website with multiple recipes using Django Celery Redis Caching
 - Recipe website using Django , Celery Redis, Templates, HTML , CSS 
 - Implemented Caching using Celery Redis to avoid pinging DB everytime 
 - Provided Search functionality with Caching to search any dish 
